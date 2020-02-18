@@ -1,0 +1,12 @@
+diff --git a/menu.txt b/menu.txt
+index c6a379a..bd1098b 100644
+--- a/menu.txt
++++ b/menu.txt
+@@ -1,4 +1,5 @@
+ Steak tartare
+ Salade norvégienne
+ Filet de dorade
+-Bar à la citronnelle
+\ No newline at end of file
++Bar à la citronnelle
++foutou sauce graine
