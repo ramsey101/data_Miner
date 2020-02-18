@@ -1,3 +1,4 @@
+salades
 Steak tartare
 Salade norvégienne
 Filet de dorade
@@ -5,3 +6,4 @@ Bar à la citronnelle
 foutou sauce graine
 garba
 frites
+gateau à la vanille
